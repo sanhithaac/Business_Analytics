@@ -1,11 +1,12 @@
-# Business Analytics Individual Case Study
+# 23CSE352 Business Analytics 
+Case Study Submission
 
 # TravelMatch: Data-Driven Persona Identification and Automated Package Recommendation
 
 **Author:** AC Sanhitha Reddy  
 **Register Number:** CB.SC.U4CSE23206  
 **Class / Section:** CSE - C  
-**Date:** September 2026
+
 
 ---
 
