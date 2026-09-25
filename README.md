@@ -1,5 +1,5 @@
-# 23CSE352 Business Analytics 
-Case Study Submission
+# 23CSE352 Business Analytics - Case Study Submission
+
 
 # TravelMatch: Data-Driven Persona Identification and Automated Package Recommendation
 
